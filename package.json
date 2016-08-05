@@ -1,5 +1,5 @@
 {
-  "name": "angular-drag-drop",
+  "name": "tefdos-angular-drag-drop",
   "version": "2.0.6",
   "description": "Dependency-free drag and drop support in Angular.js",
   "main": "./dist/angular-drag-drop.js",
